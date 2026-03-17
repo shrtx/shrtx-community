@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shrtx/.github/main/shrtx-logo/shrtx-3d-logo.png" alt="SHRTX logo" width="160" />
+</p>
+
 # SHRTX Community
 
 Welcome to the official community space for **SHRTX**.
