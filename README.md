@@ -1,7 +1,7 @@
 # SHRTX
 
 <p align="center">
-  <img src="https://shrtx.in/og.png" alt="SHRTX" width="100%">
+  <img src="[https://shrtx.in/og.png](https://shrtx.in/images/SHRTX-Icons/SHRTX-Icons-Light/Minimalist%20geometric%20X-shaped%20logo.webp)" alt="SHRTX" width="100%">
 </p>
 
 <h3 align="center">
