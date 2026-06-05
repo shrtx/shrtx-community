@@ -1,31 +1,282 @@
-# 💫 About Me:
-Privacy-first browser-native productivity infrastructure.<br><br>SHRTX builds high-performance local-first tools for image processing, PDF workflows, identity systems, QR generation, document utilities, and developer productivity.<br><br>Everything runs directly in the browser or on-device.<br><br>No uploads. No cloud dependency. No tracking-first architecture.<br><br>Core Principles<br>Browser-native processing<br>Local-first privacy<br>Fast static delivery<br>Professional workflow tooling<br>Developer-friendly architecture<br>Mobile and desktop parity<br>Platform Coverage<br>Image Processing<br>PDF Utilities<br>QR & Barcode Systems<br>Identity Card Workflows<br>Data & CSV Tools<br>Developer Utilities<br>Text & Encoding Tools<br>Document Workflows<br>Android Native Applications<br>Flagship Projects<br>SHRTX.IN<br><br>Privacy-first browser utility platform with 500+ local tools.
+# SHRTX
 
+<p align="center">
+  <img src="https://shrtx.in/og.png" alt="SHRTX" width="100%">
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shrtx_in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shrtx/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shrtx_in) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SHRTX-IN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@shrtx.in) 
+<h3 align="center">
+Privacy-First Browser-Native Productivity Infrastructure
+</h3>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vtsadmin&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vtsadmin&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vtsadmin&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+500+ local-first tools for images, PDFs, QR systems, developer workflows, security utilities, document processing, and productivity pipelines.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vtsadmin&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vtsadmin&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://shrtx.in">Website</a> •
+  <a href="https://github.com/shrtx/shrtx-community">Community</a> •
+  <a href="https://x.com/shrtx">X</a> •
+  <a href="https://linkedin.com/company/shrtx">LinkedIn</a> •
+  <a href="https://shrtx.in/blog">Blog</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vtsadmin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/vishutiwari) 
+# What is SHRTX?
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+SHRTX is a browser-native productivity ecosystem focused on fast, privacy-first, local processing workflows.
+
+Instead of relying on cloud uploads or server-side processing, SHRTX tools execute directly in the browser or on-device using modern web APIs, canvas rendering systems, client-side compute pipelines, and offline-first architectures.
+
+The platform spans:
+
+* Developer Utilities
+* Security & Privacy
+* Image Processing
+* PDF Workflows
+* Data Conversion
+* QR & Identity Systems
+* SEO Utilities
+* Text Processing
+* Web Utilities
+* Android Productivity Applications
+
+---
+
+# Platform Scale
+
+* 500+ browser-native tools
+* 15+ workflow categories
+* Local-first architecture
+* Static-first deployment
+* Mobile and desktop workflows
+* Offline-capable utilities
+* Browser-native export systems
+
+---
+
+# Core Tool Ecosystems
+
+## Developer Utilities
+
+Modern browser-native development workflows:
+
+* [JSON Formatter & Validator](https://shrtx.in/tools/json-formatter)
+* [Regex Builder](https://shrtx.in/tools/regex-builder)
+* [SQL Query Builder](https://shrtx.in/tools/sql-query-builder)
+* [YAML Validator](https://shrtx.in/tools/yaml-validator)
+* [GraphQL Formatter](https://shrtx.in/tools/graphql-formatter)
+* [Curl to Fetch Converter](https://shrtx.in/tools/curl-to-fetch)
+* [UUID Generator](https://shrtx.in/tools/uuid-generator)
+* [Cron Expression Builder](https://shrtx.in/tools/cron-expression-builder)
+* [Docker Compose Builder](https://shrtx.in/tools/docker-compose-builder)
+
+---
+
+## Security & Privacy
+
+Privacy-focused local security tooling:
+
+* [Password Strength Checker](https://shrtx.in/tools/password-strength-checker)
+* [Secure Password Generator](https://shrtx.in/tools/password-generator)
+* [SSH Key Generator](https://shrtx.in/tools/ssh-key-generator)
+* [Hash Generator](https://shrtx.in/tools/hash-generator)
+* [JWT Decoder](https://shrtx.in/tools/jwt-decoder)
+* [File Encryption Tool](https://shrtx.in/tools/file-encryption)
+* [Data Redaction Tool](https://shrtx.in/tools/data-redaction)
+* [Cookie Audit Tool](https://shrtx.in/tools/cookie-audit-tool)
+* [Email Header Analyzer](https://shrtx.in/tools/email-header-analyzer)
+
+---
+
+## Image Processing Infrastructure
+
+High-performance browser-native image workflows:
+
+* [Image Compressor](https://shrtx.in/tools/image-compressor)
+* [Image Resizer](https://shrtx.in/tools/image-resizer)
+* [Image Cropper](https://shrtx.in/tools/image-cropper)
+* [Background Remover](https://shrtx.in/tools/background-remover)
+* [Image to WebP Converter](https://shrtx.in/tools/image-to-webp)
+* [AVIF to JPG Converter](https://shrtx.in/tools/avif-to-jpg)
+* [SVG Optimizer](https://shrtx.in/tools/svg-optimizer)
+* [Image Glitcher](https://shrtx.in/tools/image-glitch)
+* [Photo Print Layout Maker](https://shrtx.in/tools/photo-print-layout)
+* [EXIF Metadata Remover](https://shrtx.in/tools/exif-remover)
+
+---
+
+## PDF & Document Workflows
+
+Professional local-first document pipelines:
+
+* [Merge PDF](https://shrtx.in/tools/merge-pdf)
+* [Split PDF](https://shrtx.in/tools/split-pdf)
+* [PDF OCR](https://shrtx.in/tools/pdf-ocr)
+* [PDF Compressor](https://shrtx.in/tools/pdf-compressor)
+* [PDF Signer](https://shrtx.in/tools/pdf-signer)
+* [PDF Watermark](https://shrtx.in/tools/pdf-watermark)
+* [HTML to PDF](https://shrtx.in/tools/html-to-pdf)
+* [PDF to Word Converter](https://shrtx.in/tools/pdf-to-word)
+* [PDF Metadata Editor](https://shrtx.in/tools/pdf-metadata-editor)
+* [Images to PDF](https://shrtx.in/tools/images-to-pdf)
+
+---
+
+## Data & Conversion Workflows
+
+Structured data transformation utilities:
+
+* [CSV to JSON Converter](https://shrtx.in/tools/csv-to-json)
+* [Excel to JSON Converter](https://shrtx.in/tools/excel-to-json)
+* [XML to JSON Converter](https://shrtx.in/tools/xml-to-json)
+* [JSON Transformer](https://shrtx.in/tools/json-transformer)
+* [CSV Cleaner](https://shrtx.in/tools/csv-cleaner)
+* [Data Deduplicator](https://shrtx.in/tools/data-deduplicator)
+* [Base64 Encoder Decoder](https://shrtx.in/tools/base64-codec)
+* [Markdown to HTML Converter](https://shrtx.in/tools/markdown-to-html)
+* [URL Encoder Decoder](https://shrtx.in/tools/url-encoder)
+
+---
+
+## SEO & Web Utilities
+
+Technical SEO and optimization workflows:
+
+* [XML Sitemap Generator](https://shrtx.in/tools/sitemap-xml-generator)
+* [Robots.txt Generator](https://shrtx.in/tools/robots-txt-generator)
+* [Meta Tag Generator](https://shrtx.in/tools/meta-tag-generator)
+* [Broken Link Checker](https://shrtx.in/tools/broken-link-checker)
+* [Title Length Checker](https://shrtx.in/tools/title-length-checker)
+* [Image Alt Text Generator](https://shrtx.in/tools/image-alt-text-generator)
+* [Deep Link Builder](https://shrtx.in/tools/deep-link-builder)
+* [UTM Builder](https://shrtx.in/tools/utm-builder)
+
+---
+
+## QR & Identity Systems
+
+Operational identity and badge workflows:
+
+* [QR Code Generator](https://shrtx.in/tools/qr-code-generator)
+* [Student ID Card Maker](https://shrtx.in/tools/student-id-card-maker)
+* [Barcode Generator](https://shrtx.in/tools/barcode-generator)
+* [QR Attendance Badge Generator](https://shrtx.in/tools/qr-attendance-badge-generator)
+* [Photo Print Layout Maker](https://shrtx.in/tools/photo-print-layout)
+
+---
+
+# Browser-Native Architecture
+
+SHRTX is built around local-first processing principles.
+
+Core platform characteristics:
+
+* No mandatory uploads
+* Browser-native rendering
+* Static-first infrastructure
+* Offline-capable workflows
+* Minimal telemetry
+* Privacy-first processing
+* Client-side compute pipelines
+* Responsive mobile and desktop tooling
+
+---
+
+# Technology Stack
+
+## Web Platform
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Canvas APIs
+* IndexedDB
+* Web Workers
+* Static Site Generation
+
+## Android Platform
+
+* Kotlin
+* Jetpack Compose
+* Android Canvas APIs
+* Room Database
+* PdfDocument APIs
+* Offline-first persistence
+
+---
+
+# Product Philosophy
+
+SHRTX focuses on practical workflows instead of novelty utilities.
+
+The ecosystem is designed for:
+
+* developers
+* creators
+* students
+* operational teams
+* institutions
+* educators
+* productivity workflows
+* local document handling
+* browser-native processing
+
+---
+
+# Featured Projects
+
+| Project              | Description                            |
+| -------------------- | -------------------------------------- |
+| SHRTX.IN             | Browser-native productivity platform   |
+| SHRTX Community      | Open collaboration ecosystem           |
+| SHRTX Identity Suite | Offline-first identity workflow system |
+| SHRTX Android Apps   | Native productivity applications       |
+| SHRTX PDF Engine     | Local-first document infrastructure    |
+| SHRTX Image Pipeline | Browser-native image workflows         |
+
+---
+
+# Engineering Direction
+
+SHRTX is evolving toward:
+
+* browser-native compute infrastructure
+* scalable workflow ecosystems
+* cross-platform rendering systems
+* reusable export pipelines
+* institutional productivity tooling
+* privacy-first software systems
+* offline-capable operational utilities
+
+---
+
+# Open Ecosystem
+
+SHRTX supports open collaboration around browser-native tooling and local-first productivity systems.
+
+We welcome:
+
+* contributors
+* workflow ideas
+* feature proposals
+* integration experiments
+* bug reports
+* infrastructure discussions
+
+---
+
+# Links
+
+* Website: https://shrtx.in
+* Blog: https://shrtx.in/blog
+* Community: https://github.com/shrtx/shrtx-community
+* X: https://x.com/shrtx
+* LinkedIn: https://linkedin.com/company/shrtx
+
+---
+
+<p align="center">
+Built for local-first productivity workflows.
+</p>
