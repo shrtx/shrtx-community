@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shrtx/.github/main/shrtx-logo/shrtx-3d-taransparent-logo.png" alt="SHRTX logo" width="160" />
+  <img src="https://raw.githubusercontent.com/shrtx/.github/main/assets/SHRTX%20New%20Logo/SHRTX%20Logo%20Light%20blue%20accents.png" alt="SHRTX" width="100%">
 </p>
 
 # SHRTX Community
